@@ -3517,7 +3517,7 @@ SOFTWARE\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Render\{476c672d-bffd-
             SOFTWARE\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Render\{476c672d-bffd-4bd1-b462-4618e743edfa}\FxProperties\{45da5c30-2837-4ac4-b1e2-50acc3865974}\Volatile
     SOFTWARE\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Render\{476c672d-bffd-4bd1-b462-4618e743edfa}\Properties
         (REG_BINARY) {b3f8fa53-0004-438e-9003-51a46e139bfc},15 = 41 00 00 00 01 00 00 00 E9 07 05 00 03 00 15 00 06 00 2E 00 3B 00 6E 03 
-        (REG_SZ) {a45c254e-df1c-4efd-8020-67d146a850e0},2 = «ÏµÂ∆˘
+        (REG_SZ) {a45c254e-df1c-4efd-8020-67d146a850e0},2 = Ìó§ÎìúÌè∞
         (REG_SZ) {b3f8fa53-0004-438e-9003-51a46e139bfc},6 = Realtek(R) Audio
         (REG_SZ) {b3f8fa53-0004-438e-9003-51a46e139bfc},2 = {1}.INTELAUDIO\FUNC_01&VEN_10EC&DEV_0298&SUBSYS_144DCA08&REV_1001\5&423A3C8&0&0001DIF_000B&UIF_0000
         (REG_SZ) {83da6326-97a6-4088-9453-a1923f573b29},3 = oem147.inf:ed86ca118627db63:IntcAzAudModel.NTamd64:6.0.9815.1:INTELAUDIO\FUNC_01&VEN_10EC&DEV_0298&SUBSYS_144DCA08
@@ -4085,7 +4085,7 @@ SOFTWARE\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Render\{d946c79f-cc8b-
             SOFTWARE\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Render\{d946c79f-cc8b-4044-a089-52271f416148}\FxProperties\{45da5c30-2837-4ac4-b1e2-50acc3865974}\Volatile
     SOFTWARE\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Render\{d946c79f-cc8b-4044-a089-52271f416148}\Properties
         (REG_BINARY) {b3f8fa53-0004-438e-9003-51a46e139bfc},15 = 41 00 00 00 01 00 00 00 E9 07 05 00 03 00 15 00 06 00 2E 00 3B 00 80 01 
-        (REG_SZ) {a45c254e-df1c-4efd-8020-67d146a850e0},2 = Ω∫««ƒø
+        (REG_SZ) {a45c254e-df1c-4efd-8020-67d146a850e0},2 = Ïä§ÌîºÏª§
         (REG_SZ) {b3f8fa53-0004-438e-9003-51a46e139bfc},6 = Realtek(R) Audio
         (REG_SZ) {b3f8fa53-0004-438e-9003-51a46e139bfc},2 = {1}.INTELAUDIO\FUNC_01&VEN_10EC&DEV_0298&SUBSYS_144DCA08&REV_1001\5&423A3C8&0&0001DIF_000B&UIF_0000
         (REG_SZ) {83da6326-97a6-4088-9453-a1923f573b29},3 = oem147.inf:ed86ca118627db63:IntcAzAudModel.NTamd64:6.0.9815.1:INTELAUDIO\FUNC_01&VEN_10EC&DEV_0298&SUBSYS_144DCA08
@@ -4558,7 +4558,7 @@ SOFTWARE\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Capture\{12b1db0a-fafd
             SOFTWARE\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Capture\{12b1db0a-fafd-455b-bae6-ef78874abb0e}\FxProperties\{4bfd7f96-d05b-487f-b02b-c7c8a1181f36}\Volatile
     SOFTWARE\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Capture\{12b1db0a-fafd-455b-bae6-ef78874abb0e}\Properties
         (REG_BINARY) {b3f8fa53-0004-438e-9003-51a46e139bfc},15 = 41 00 00 00 01 00 00 00 E9 07 05 00 03 00 15 00 06 00 2F 00 00 00 50 01 
-        (REG_SZ) {a45c254e-df1c-4efd-8020-67d146a850e0},2 = Ω∫≈◊∑πø¿ πÕΩ∫
+        (REG_SZ) {a45c254e-df1c-4efd-8020-67d146a850e0},2 = Ïä§ÌÖåÎ†àÏò§ ÎØπÏä§
         (REG_SZ) {b3f8fa53-0004-438e-9003-51a46e139bfc},6 = Realtek(R) Audio
         (REG_SZ) {b3f8fa53-0004-438e-9003-51a46e139bfc},2 = {1}.INTELAUDIO\FUNC_01&VEN_10EC&DEV_0298&SUBSYS_144DCA08&REV_1001\5&423A3C8&0&0001DIF_000B&UIF_0000
         (REG_SZ) {83da6326-97a6-4088-9453-a1923f573b29},3 = oem147.inf:ed86ca118627db63:IntcAzAudModel.NTamd64:6.0.9815.1:INTELAUDIO\FUNC_01&VEN_10EC&DEV_0298&SUBSYS_144DCA08
@@ -5372,7 +5372,7 @@ SOFTWARE\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Capture\{13cf6455-232c
             SOFTWARE\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Capture\{13cf6455-232c-45f6-b2e0-57f43b096a7b}\FxProperties\{4bfd7f96-d05b-487f-b02b-c7c8a1181f36}\Volatile
     SOFTWARE\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Capture\{13cf6455-232c-45f6-b2e0-57f43b096a7b}\Properties
         (REG_BINARY) {b3f8fa53-0004-438e-9003-51a46e139bfc},15 = 41 00 00 00 01 00 00 00 E9 07 05 00 03 00 15 00 06 00 2F 00 00 00 05 03 
-        (REG_SZ) {a45c254e-df1c-4efd-8020-67d146a850e0},2 = ∏∂¿Ã≈©
+        (REG_SZ) {a45c254e-df1c-4efd-8020-67d146a850e0},2 = ÎßàÏù¥ÌÅ¨
         (REG_SZ) {b3f8fa53-0004-438e-9003-51a46e139bfc},6 = Realtek(R) Audio
         (REG_SZ) {b3f8fa53-0004-438e-9003-51a46e139bfc},2 = {1}.INTELAUDIO\FUNC_01&VEN_10EC&DEV_0298&SUBSYS_144DCA08&REV_1001\5&423A3C8&0&0001DIF_000B&UIF_0000
         (REG_SZ) {83da6326-97a6-4088-9453-a1923f573b29},3 = oem147.inf:ed86ca118627db63:IntcAzAudModel.NTamd64:6.0.9815.1:INTELAUDIO\FUNC_01&VEN_10EC&DEV_0298&SUBSYS_144DCA08
@@ -6021,7 +6021,7 @@ Software\Realtek
                 (REG_DWORD) InstallDate_Low = 0xA490E8A0
                 (REG_DWORD) InstallDate_High = 0x1DBC96D
                 (REG_DWORD) InitFirstTime = 0x0001
-                (REG_SZ) InstallTime = 2025≥‚ 5ø˘ 20¿œ »≠ø‰¿œ ø¿»ƒ 6:57:48
+                (REG_SZ) InstallTime = 2025ÎÖÑ 5Ïõî 20Ïùº ÌôîÏöîÏùº Ïò§ÌõÑ 6:57:48
             Software\Realtek\Audio\RtkAudUService\Others
                 (REG_DWORD) HostGuiType = 0x0001
                 (REG_DWORD) HostGuiSubType = 0x0000
@@ -6086,7 +6086,7 @@ Software\Realtek
                 (REG_DWORD) InstallDate_Low = 0xA490E8A0
                 (REG_DWORD) InstallDate_High = 0x1DBC96D
                 (REG_DWORD) InitFirstTime = 0x0001
-                (REG_SZ) InstallTime = 2025≥‚ 5ø˘ 20¿œ »≠ø‰¿œ ø¿»ƒ 6:57:48
+                (REG_SZ) InstallTime = 2025ÎÖÑ 5Ïõî 20Ïùº ÌôîÏöîÏùº Ïò§ÌõÑ 6:57:48
                 (REG_DWORD) JDPopup = 0x0000
             Software\Realtek\Audio\RtkAudUService\Others
                 (REG_DWORD) HostGuiType = 0x0001
@@ -6157,7 +6157,7 @@ Software\Realtek
                 (REG_DWORD) InstallDate_Low = 0xA490E8A0
                 (REG_DWORD) InstallDate_High = 0x1DBC96D
                 (REG_DWORD) InitFirstTime = 0x0001
-                (REG_SZ) InstallTime = 2025≥‚ 5ø˘ 20¿œ »≠ø‰¿œ ø¿»ƒ 6:57:48
+                (REG_SZ) InstallTime = 2025ÎÖÑ 5Ïõî 20Ïùº ÌôîÏöîÏùº Ïò§ÌõÑ 6:57:48
                 (REG_DWORD) JDPopup = 0x0000
             Software\Realtek\Audio\RtkAudUService\Others
                 (REG_DWORD) HostGuiType = 0x0001
