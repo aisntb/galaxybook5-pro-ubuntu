@@ -1,0 +1,129 @@
+덤프파일정리
+
+********** Wid=[0x02] **********
+Stream 1 Sequence 0  <24-Bit>  <48000 Hz> 
+Amplifier Gain :
+    Output Amplifier Gain :
+        <Gain Number of step=127, 0dB Offset=127, Step Size=0.50 dB, From -63.50dB to 0.00dB>
+        => Gain L:0.00dB(0x7F) R:0.00dB(0x7F)
+Power State : [PS-Act : D3], [PS-Set : D3]
+
+=> 이 노드는 음소거나 이어폰 잭을 꽃으면 D3으로, 내장스피커 소리를 켜놓으면 D0으로 변한다.
+
+********** Wid=[0x0A] **********
+Stream 0 Sequence 0  <24-Bit>  <48000 Hz> 
+Power State : [PS-Act : D3], [PS-Set : D3]
+
+********** Wid=[0x0A] **********
+Stream 1 Sequence 0  <24-Bit>  <48000 Hz> 
+Power State : [PS-Act : D0], [PS-Set : D0]
+=> 위가 이어폰을 켰을때 아래가 스피커가 켜저있을때이다.
+
+
+********** Wid=[0x17] **********
+<VREF Hi-Z> <Input Disable><Output Enabled><H-Phn Disable><Jack is unplugged><EAPD=0>
+Output MUX select to index 0x00 <WID=0x0C>
+Amplifier Gain :
+    Output Amplifier Gain :
+        <Gain Number of step=0, 0dB Offset=0, Step Size=0.00 dB,From 0.00dB to 0.00dB>
+        => Index 00 <WID=0x0C> Mute L:0 R:0 , Gain L:0.00dB(0x00) R:0.00dB(0x00)
+Power State : [PS-Act : D0], [PS-Set : D0]
+
+=> Mute L:0 R:0는 스피커가 켜져있을 때  Mute L:1 R:1은 이어폰이 꽃혀있을때 이다.
+
+
+********** Wid=[0x18] **********
+<VREF Hi-Z> <Input Disable><Output Disable><H-Phn Disable><Jack is unplugged>
+Amplifier Gain :
+    Input Amplifier Gain :
+        <Gain Number of step=3, 0dB Offset=0, Step Size=10.00 dB, From 0.00dB to 30.00dB>
+        => Gain L:0.00dB(0x00) R:0.00dB(0x00)
+Power State : [PS-Act : D0], [PS-Set : D0]
+
+=><Jack is unplugged>는 스피커로 소리가 날때 <Jack is plugged> 는 이어폰으로 소리가 날때 이다.
+
+********** Wid=[0x20] **********
+Vendor widget coefficient value
+아래는 바뀐부분만 서술한다 위가 스피커 아래가 이어폰이다.
+Index 0x05  0x2BE0
+Index 0x05  0x0300
+
+Index 0x22  0x0000
+Index 0x22  0x0039
+
+Index 0x23  0x0000
+Index 0x23  0x0400
+
+Index 0x25  0x0000
+Index 0x25  0x0001
+
+Index 0x26  0x3000
+Index 0x26  0xB001
+
+Index 0x2D  0xC020
+Index 0x2D  0xD020
+
+Index 0x2E  0x0250
+Index 0x2E  0x02F0
+
+Index 0x4E  0x43FE
+Index 0x4E  0xC3FE
+
+Index 0x50  0x1000
+Index 0x50  0x0000
+
+Index 0x75  0xC802
+Index 0x75  0x8800
+
+
+********** Wid=[0x21] **********
+<VREF Hi-Z> <Input Disable><Output Disable><H-Phn Disable><Jack is unplugged>
+Output MUX select to index 0x00 <WID=0x0C>
+Amplifier Gain :
+    Output Amplifier Gain :
+        <Gain Number of step=0, 0dB Offset=0, Step Size=0.00 dB,From 0.00dB to 0.00dB>
+        => Index 00 <WID=0x0C> Mute L:1 R:1 , Gain L:0.00dB(0x00) R:0.00dB(0x00)
+Power State : [PS-Act : D0], [PS-Set : D0]
+
+
+********** Wid=[0x21] **********
+<VREF Hi-Z> <Input Disable><Output Disable><H-Phn Disable><Jack is plugged>
+Output MUX select to index 0x01 <WID=0x0D>
+Amplifier Gain :
+    Output Amplifier Gain :
+        <Gain Number of step=0, 0dB Offset=0, Step Size=0.00 dB,From 0.00dB to 0.00dB>
+        => Index 00 <WID=0x0C> Mute L:1 R:1 , Gain L:0.00dB(0x00) R:0.00dB(0x00)
+Power State : [PS-Act : D0], [PS-Set : D0]
+
+=> 위가 스피커에 연결 된 경우, 아래가 이어폰에 연결된 경우 이다.
+
+
+********** Wid=[0x22] **********
+Input MUX select to index 0x06 <WID=0x00>
+
+********** Wid=[0x23] **********
+Input MUX select to index 0x02 <WID=0x1A>
+
+
+********** Wid=[0x22] **********
+Input MUX select to index 0x00 <WID=0x18>
+
+********** Wid=[0x23] **********
+Input MUX select to index 0x02 <WID=0x1A>
+
+=> 22번노드와 23번 노드이다. 위가 내장 스피커, 아래가 이어폰이다.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
